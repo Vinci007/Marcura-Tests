@@ -1,0 +1,1 @@
+This is a Marcura Test written in Typescript, please take a fresh clone and add required dependencies with fresh cypress installation or if you already have cypress installed, do initialise and continue with the execution.
